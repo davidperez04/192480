@@ -8,6 +8,8 @@
 4. Se evalúan exactamente **4 estudiantes**.
 5. Al final, se imprime cuántos aprobaron.
 
+anlisis
+
 1. importe un escanner paraleer las notas
 2. inicialize un contador de aprobados
 3. utilice un for para preguntarle a 4 estudiantey 
